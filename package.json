@@ -27,7 +27,6 @@
     "gaze": "^1.1.1",
     "mustache": "^2.2.1",
     "pug": "^2.0.0-beta6",
-    "rollupify": "^0.3.4",
     "shift-codegen": "^5.0.2",
     "shift-parser": "^5.0.2",
     "uglify-js": "^2.7.3",
