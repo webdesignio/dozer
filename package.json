@@ -1,6 +1,6 @@
 {
   "name": "@webdesignio/dozer",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "The tool to build the websites' dynamic assets.",
   "main": "index.js",
   "bin": {
